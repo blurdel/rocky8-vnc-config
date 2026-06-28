@@ -23,7 +23,7 @@
 #alwaysshared
 #SecurityTypes=VncAuth
 
-session=xfce
+# session=xfce
 geometry=1920x1080
 SecurityTypes=VncAuth
 

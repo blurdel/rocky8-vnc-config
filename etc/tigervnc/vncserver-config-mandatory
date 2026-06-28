@@ -15,7 +15,7 @@
 # localhost
 # alwaysshared
 
-session=xfce
-geometry=1920x1080
-SecurityTypes=VncAuth
+# session=xfce
+# geometry=1920x1080
+# SecurityTypes=VncAuth
 
